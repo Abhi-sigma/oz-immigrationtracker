@@ -1,3 +1,6 @@
+
+# [![Netlify Status](https://api.netlify.com/api/v1/badges/4ebbb747-911d-40e3-9fa9-a96d7dfe8898/deploy-status)](https://app.netlify.com/sites/nostalgic-benz-2e0e2e/deploys)
+
 # The deployed build of immiscraper
 https://nostalgic-benz-2e0e2e.netlify.app/
 
@@ -12,4 +15,4 @@ The data is scraped by using python.The immigration website first used static fi
 I wanted to learn react so have used react in this project.
 
 ### one interesting that happened is since,I had the data from the old website which is not present at the immigration website,
-this website is unique since it has data from 2016 which is hard to find in structured format.
+## this website is unique since it has data from 2016 which is hard to find in structured format.
